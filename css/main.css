@@ -20,6 +20,9 @@ img {
   max-width: 100%;
 }
 
+h3 {
+  margin: 0 0 1em 0;
+}
 
 
 /**********************************
@@ -182,9 +185,16 @@ nav a.selected, nav a:hover {
   color: #32673f;
 }
 
+/**********************************
+PAGE: ABOUT
+***********************************/
 
-
-
+.profile-photo {
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
 
 
 
